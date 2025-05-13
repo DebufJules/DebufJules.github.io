@@ -171,7 +171,7 @@ table {
 	#backgrounddesktop{
 		height: 100vh;
 		width: 100%;
-		background-color: rgb(116, 116, 116);
+		background-image: url("achtergrond.png");
 		background-size: cover;
 		background-repeat: no-repeat;
 		
@@ -381,7 +381,7 @@ table {
 	.folders{
 	margin-top:3.5em;
 	position: absolute;
-	background-image: url("Folder.png");
+	background-image: url("folder.png");
 	width:75px;
 	height:75px;
 	background-size: contain;
